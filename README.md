@@ -39,13 +39,13 @@ pip install ta-lib
 - [x] 从零开始卷量化(14)-搭建本地量化平台，跟我先买个云服务器！【适合新手】
 - [x] 从零开始卷量化(15)-本地量化研究四件套：conda/jupyter/pandas/akshare
 - [x] [从零开始卷量化(17)-基于TaLib指标库的多股票Backtrader回测(上)](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618567&idx=1&sn=0baef9f3aa427510b95142be9cfda02c&chksm=8394e9bab4e360ac919708b9120ec000bad7d5a4f8616e8de323bf7d30f5173365f776a7bc31&scene=21#wechat_redirect)
-- [x] 从零开始卷量化(18)-基于TaLib指标库的多股票Backtrader回测(下) 【完整策略】
-- [x] 从零开始卷量化(19)-微软开源量化平台QLib初探
-- [x] 从零开始卷量化(20)-基于TaLib和Qlib的指数增强策略
-- [x] 从零开始卷量化(21)-基于alphalens的因子分析
-- [x] 从零开始卷量化(22)-更全面的收益与风险分析，使用empyrical和quantstats！
-- [x] 从零开始卷量化(23)-深挖Qlib框架中AI功能的实现，机器学习初探！
-- [x] 从零开始卷量化(24)-魔改LightGBM损失函数，2年400%收益！
+- [x] [从零开始卷量化(18)-基于TaLib指标库的多股票Backtrader回测(下) 【完整策略】](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618581&idx=1&sn=4d4b7fb7c21768f7e39da59cf2e6d755&chksm=8394e9a8b4e360bed7226a8e5c6d1093448c82510abb5a59655b56bebbf9c83634114d0d37b7&cur_album_id=2322846473757212672&scene=190#rd)
+- [x] [从零开始卷量化(19)-微软开源量化平台QLib初探](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618595&idx=1&sn=19f64aca717c63f4f6cd3c19a16f3d2d&chksm=8394e99eb4e36088edf2823b9f4001abe6077e6825753c451cd444c1aef724ba6657dbd31752&scene=178&cur_album_id=1762624395866324994#rd)
+- [x] [从零开始卷量化(20)-基于TaLib和Qlib的指数增强策略a](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618606&idx=1&sn=18d4a8d7c3649863c97a0217794da146&chksm=8394e993b4e3608504173f7a0d96f1e0ceae677f68d70a06901df9f8ada1fd85e5ab19921ef5&scene=178&cur_album_id=1762624395866324994#rd)
+- [x] [从零开始卷量化(21)-基于alphalens的因子分析a](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618629&idx=1&sn=14db531e735254f3ae0cee42938ad6c7&chksm=8394e9f8b4e360ee0886eb1057fdcaa29297183ad4e8f3cd4f7ff457a8633dafb5702bf8be96&scene=178&cur_album_id=1762624395866324994#rd)
+- [x] [从零开始卷量化(22)-更全面的收益与风险分析，使用empyrical和quantstats！](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618658&idx=1&sn=2494de75e4e59e666c6661ba653430d1&chksm=8394e9dfb4e360c9426c075289012ffa2f0d2d9aa7c8d648270ca926c794675ffb62e1eda8ac&scene=178&cur_album_id=1762624395866324994#rd)
+- [x] [从零开始卷量化(23)-深挖Qlib框架中AI功能的实现，机器学习初探！](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618684&idx=1&sn=8f3bd16ce6d4d0c60153a61f8c491298&chksm=8394e9c1b4e360d7b2cfce420a56242c5f1163a19973b0147adc02f8a550c2bb7ddc26286192&scene=178&cur_album_id=1762624395866324994#rd)
+- [x] [从零开始卷量化(24)-魔改LightGBM损失函数，2年400%收益！](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618712&idx=1&sn=535db3a4ed84802f1ea4cb9fde6993b3&chksm=8394e825b4e3613372e5070fa243b68ef24801614fbcb98a2ceb4e0015ff2c810da2e34fb018&scene=178&cur_album_id=1762624395866324994#rd)
 - [x] 从零开始卷量化(25)-脱离Qlib，手撸一个属于自己的量化投资框架！
 
 ### 从零开始卷量化系列(基本面分析篇)：
