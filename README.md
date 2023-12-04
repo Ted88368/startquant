@@ -3,6 +3,22 @@
 
 + [系列文章](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxNDgwNTA3NA==&action=getalbum&album_id=1762624395866324994&scene=173&from_msgid=2649618270&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
+```shell
+# 安装路径
+conda create --name py310 python=3.10.13
+# 激活环境
+conda activate py310
+pip install akshare  backtrader
+
+conda install -c conda-forge ta-lib
+# 然后编译C代码
+
+pip install ta-lib
+
+```
+
++ [《Windows系统下安装TA_Lib教程》](https://zhuanlan.zhihu.com/p/502358216)
+
 ### 从零开始卷量化系列(基础入门篇)：
 - [x] 从零开始卷量化(1)-何为量化？
 - [x] 从零开始卷量化(2)-第一个量化策略，年化35%？(CAPM，单因子模型)
@@ -22,7 +38,7 @@
 - [x] 从零开始卷量化(13)-交易数据可视化，Matplotlib初探！
 - [x] 从零开始卷量化(14)-搭建本地量化平台，跟我先买个云服务器！【适合新手】
 - [x] 从零开始卷量化(15)-本地量化研究四件套：conda/jupyter/pandas/akshare
-- [x] 从零开始卷量化(17)-基于TaLib指标库的多股票Backtrader回测(上)
+- [x] [从零开始卷量化(17)-基于TaLib指标库的多股票Backtrader回测(上)](https://mp.weixin.qq.com/s?__biz=MzAxNDgwNTA3NA==&mid=2649618567&idx=1&sn=0baef9f3aa427510b95142be9cfda02c&chksm=8394e9bab4e360ac919708b9120ec000bad7d5a4f8616e8de323bf7d30f5173365f776a7bc31&scene=21#wechat_redirect)
 - [x] 从零开始卷量化(18)-基于TaLib指标库的多股票Backtrader回测(下) 【完整策略】
 - [x] 从零开始卷量化(19)-微软开源量化平台QLib初探
 - [x] 从零开始卷量化(20)-基于TaLib和Qlib的指数增强策略
@@ -33,7 +49,7 @@
 - [x] 从零开始卷量化(25)-脱离Qlib，手撸一个属于自己的量化投资框架！
 
 ### 从零开始卷量化系列(基本面分析篇)：
-- [x]  从零开始卷量化(26)-回归基本面量化，跟我一起读财报！
+- [x] 从零开始卷量化(26)-回归基本面量化，跟我一起读财报！
 - [x] 从零开始卷量化(27)-资产负债表之货币资金
 - [x] 从零开始卷量化(28)-从“往来款”信息中获取超额收益！
 - [x] 从零开始卷量化(29)-存货的秘密
